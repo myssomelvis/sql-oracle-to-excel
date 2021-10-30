@@ -3,7 +3,7 @@ Ce mini script python vous permet de récupérer des donnée d'une base de donn�
 Vous avez besoin de :
 python 3.6 
 pip install cx_Oracle pandas xlsxwriter 
-visual c++ 2019 
+visual c++ 2017 ou plus 
 oracle client 
 
 
