@@ -7,3 +7,8 @@ visual c++ 2017 ou plus
 oracle client 
 
 
+This python script allows you to retrieve data from an oracle 12 c version database and save it in Excel format You need: 
+python 3.6 
+pip install cx_Oracle pandas xlsxwriter 
+visual c++ 2017 or higher 
+oracle client
